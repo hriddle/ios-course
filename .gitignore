@@ -1,0 +1,8 @@
+## Build generated ##
+build/
+DerivedData/
+
+## Other ##
+*.xcuserstate
+
+.DS_Store
